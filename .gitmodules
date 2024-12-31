@@ -1,0 +1,3 @@
+[submodule "SMPLSim"]
+	path = SMPLSim
+	url = https://github.com/ZhengyiLuo/SMPLSim.git
